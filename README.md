@@ -9,4 +9,5 @@
 | forEach | 输出性别为女的姓名 | [示例](src/com/somliy/forEach/MothPerson.java) |
 | peek | 用peek完成intermediate操作 | [示例](src/com/somliy/peek/peek.java) |
 | reduce | reduce | [示例](src/com/somliy/reduce/reduce.java) |
+| Limit Skip | Limit Skip | [示例](src/com/somliy/LimitAndSkip/LimitAndSkip.java) |
 
